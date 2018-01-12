@@ -1,0 +1,1 @@
+# NamedPipeFIFO_TranceiveBetwCppApp
